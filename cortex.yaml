@@ -1,7 +1,7 @@
 openapi: 3.0.1
 info:
   title: Create React App
-  description: Set up a modern web app by running one command.
+  description: Set up a modern web app by running one command and one command only
   x-cortex-git:
     github:
       repository: johnallancortexpoc/create-react-app
