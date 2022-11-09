@@ -1,0 +1,21 @@
+openapi: 3.0.1
+info:
+  title: Create React App
+  description: Set up a modern web app by running one command.
+  x-cortex-git:
+    github:
+      repository: johnallancortexpoc/create-react-app
+  x-cortex-tag: create-react-app
+  x-cortex-link:
+  - url: http://www.google.com
+    name: POC Demo
+    type: DOCUMENTATION
+    description: Google
+  x-cortex-type: service
+  x-cortex-oncall:
+    pagerduty:
+      id: PY2449Y
+      type: SERVICE
+  x-cortex-owners:
+  - type: EMAIL
+    email: jallan@confluent.io
