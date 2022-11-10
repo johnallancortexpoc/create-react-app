@@ -17,5 +17,5 @@ info:
       id: PY2449Y
       type: SERVICE
   x-cortex-owners:
-  - type: EMAIL
-    email: jallan@confluent.io
+  - type: GROUP
+    group: a-team
