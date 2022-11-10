@@ -18,4 +18,4 @@ info:
       type: SERVICE
   x-cortex-owners:
   - type: GROUP
-    group: a-team
+    name: a-team
